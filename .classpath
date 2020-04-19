@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/git/SysFrequencia/src/bibliotecas/itextpdf-5.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/git/SysFrequencia/src/bibliotecas/mail.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/git/SysFrequencia/src/bibliotecas/mysql-connector-java-commercial-5.1.7-bin.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/git/SysFrequencia/src/bibliotecas/synthetica.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Matheus/git/SysFrequencia/src/bibliotecas/syntheticaPlain.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
